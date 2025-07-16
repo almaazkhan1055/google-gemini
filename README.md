@@ -34,3 +34,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+<!-- Show confirmation via toast notification,Support for image upload in chat (base64 or preview URL),● Copy-to-clipboard feature on message hove,Dark Mode Toggle,Debounced search bar to filter chatrooms by title,Display loading skeletons for chat message,Toast notifications for key actions (OTP sent, message sent, chatroom deleted, etc,Use local preview URL or base64 (no backend needed),Simulate AI response using setTimeout with throttling,Detailed README.m,Include in your GitHub: ○ Project overview and live link ○ Setup and run instructions ○ Folder/component structure explanation ○ How throttling, pagination, infinite scroll, and form validation are implemented ○ Screenshots (optional but encouraged -->
